@@ -730,3 +730,4 @@
    survival:Button("Apeirophobia", function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/kinhey/scripts/main/apeirophobia.lua"))()
    end)
+
