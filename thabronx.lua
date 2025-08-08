@@ -102,7 +102,7 @@ local Bracket = loadstring(game:HttpGet("https://raw.githubusercontent.com/Luarm
 local executor = identifyexecutor and identifyexecutor() or "Unknown Executor"
 
 local Window = Bracket:Window({
-    Name = "X-Dk V2 | Tha Bronx | " .. executor,
+    Name = "YoxanXHub | Tha Bronx | " .. executor,
     Enabled = true,
     Color = Color3.fromRGB(0, 255, 0),
     Size = UDim2.new(0, 320, 0, 240),
